@@ -4,7 +4,7 @@ Taken from the season 15 [OGPC Achievement Gide](https://www.ogpc.info/assets/fi
 
 ## Table of Contents
 
-|-|-|
+| - | - |
 | Section | Basic Info |
 | [Programming](#programming) | Code should be easy to follow, saved in a central location with backups, and have
 development over time. No spaghetti code! |
