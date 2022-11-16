@@ -55,7 +55,7 @@ Theme for this year is **Breaking Conventions**.
       - Game within a game.
       - Lore similar to Superhot.
       - Player gets more and more confused as time goes on, just trying to escape the game.
-      - Computer starts corrupted and player is trying to uncorrupt each time gaining new abilities, roguelike
+      - Computer starts corrupted and player is trying to un-corrupt each time gaining new abilities, roguelike
       - Connected with game is brocken
     - Similar to Evoland and Evoland 2.
     - As time goes on the game gets intentionally less and less finished and more and more janky.
