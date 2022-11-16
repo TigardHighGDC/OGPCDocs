@@ -55,6 +55,8 @@ Theme for this year is **Breaking Conventions**.
       - Game within a game.
       - Lore similar to Superhot.
       - Player gets more and more confused as time goes on, just trying to escape the game.
+      - Computer starts corrupted and player is trying to uncorrupt each time gaining new abilities, roguelike
+      - Connected with game is brocken
     - Similar to Evoland and Evoland 2.
     - As time goes on the game gets intentionally less and less finished and more and more janky.
       - Will save us some time and add depth to the game.
@@ -62,3 +64,19 @@ Theme for this year is **Breaking Conventions**.
       - You need to use an ability to get another one but you need to be careful as the more uses of an ability will cause the game to break more and more.
 2. Corrupt abilities
     - Combine the corruption idea with the idea of abilities being dangerous.
+        - Explosives, heavy speed
+        - Abilities has bad side effects
+        - Abilities hard to control
+3. Game is buggy
+    - Game breaking abilities
+    - Unfinished
+        - Terrible sound effects
+        - Unfinished art
+    - Unbalanced world
+        - Enemies op or weak
+        - Using glitches to defeat op enemies  
+        - Certain attacks doesn't effect the bosses
+    - Using glitches to complete puzzles
+4. Horror but bad
+    - Obvious jump scares
+    - Player is the one trying to scare people
